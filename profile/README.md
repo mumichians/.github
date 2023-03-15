@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the organization for our semester project for EECS 449: Conversational AI at the University of Michigan
+This is the organization for our semester project for EECS 449: Conversational AI
 <!--
 
 **Here are some ideas to get you started:**
